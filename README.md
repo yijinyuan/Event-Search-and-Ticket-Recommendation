@@ -9,7 +9,7 @@ An interactive web application full stack project for users to search events by 
 * Test: Apache JMeter
 
 ## Logic layer
-![This is an image](./pics/1.PNG)
+![This is an image](./pics/1.png)
 
 ## Recommendation Algorithm(content-based)
 In this project, I recommend events based on categories that the user has favorited. By knowing the category of the item the user favorited, I recommend some events belong to this category nearby this user. 
@@ -59,5 +59,5 @@ I implement two databases: MySQL and MongoDB. I prefer MySQL in the project at f
 ## Test
 I use Apache JMeter to test the maximum QPS in Amazon EC2. The peak throughput happens between 1000 and 2000 threads, so I can test more data points between 1000 and 2000 threads. The throughput will be around 150QPS. When I used 2500 threads, I got errors, which means the memory size is my server's bottleneck.
 ### Summarized report
-![This is an image](./pics/8.PNG)
+![This is an image](./pics/8.png)
 
