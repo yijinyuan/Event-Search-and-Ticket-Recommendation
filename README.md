@@ -39,13 +39,13 @@ I implement two databases: MySQL and MongoDB. I prefer MySQL in the project at f
 ### login/logout
 ![This is an image](./pics/3.PNG)
 ### register
-![This is an image](./pics/4.png)
+![This is an image](./pics/4.PNG)
 ### search
-![This is an image](./pics/5.png)
+![This is an image](./pics/5.PNG)
 ### favorite
-![This is an image](./pics/6.png)
+![This is an image](./pics/6.PNG)
 ### recommendation 
-![This is an image](./pics/7.png)
+![This is an image](./pics/7.PNG)
 
 ## Deployment
 ### Amazon EC2 
